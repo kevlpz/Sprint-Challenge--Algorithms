@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n^3) because the while loop is based on n^3
 
 
-b)
+b) O(n^2) because there are two O(n) loops nested
 
 
-c)
+c) O(n) because the function recurses once for each bunny
 
 ## Exercise II
 
