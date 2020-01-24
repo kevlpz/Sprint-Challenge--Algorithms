@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) O(n) because there's only one loop
 
 
-b)
+b)O(n^2) because of the two nested loops
 
 
-c)
+c)O(n) becuase it runs once for each bunny
 
 ## Exercise II
 
